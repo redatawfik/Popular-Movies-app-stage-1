@@ -18,7 +18,9 @@ public class NetworkUtils {
             "https://api.themoviedb.org/3/movie";
 
     private static final String API_KEY_PARAM = "api_key";
-    private static final String API_KEY = "3b30f866a7207700fc7708ba2851a1ca";
+
+    //this is fake API Key
+    private static final String API_KEY = "123456789";
 
 
     /**
